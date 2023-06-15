@@ -9,3 +9,9 @@ For assembly, you will need a magnet with the dimensions 1" x .33". Attach using
 Purchase magnet here: https://rb.gy/u5d89 
 You will likely need an additional spine pin. 
 Purchase a spare spine pin here: https://rb.gy/c9sxf
+
+PRINTING
+This file prints with no supports. 
+10-25% infill will be fine.
+.2 layer height is acceptable. 
+Depeding on printer type and settings it may be prefferable to print using a raft. 
