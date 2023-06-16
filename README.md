@@ -2,7 +2,7 @@
 
 DESCRIPTION
 This is an .stl file for a T-Rex Arms Sidecar.
-This bridge gives you a magnetic attach point. Ideal for an extra mag, leatherman etc.
+This bridge gives you a magnetic attach point. Ideal for an extra glock mag. 
 
 ASSEMBLY
 It is directional. Put the logo next to the gun. You want the space between the pistol and the mag for ergonomics. 
