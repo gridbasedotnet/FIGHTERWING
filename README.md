@@ -1,7 +1,7 @@
 # xtramag
 
 DESCRIPTION
-This is an .stl file for a T-Rex Arms Sidecar Bridge.
+This is an .stl file for a T-Rex Arms Sidecar.
 This bridge gives you a magnetic attach point. Ideal for an extra mag, leatherman etc.
 
 ASSEMBLY
