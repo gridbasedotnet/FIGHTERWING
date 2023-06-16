@@ -1,4 +1,4 @@
-# xtramag
+# FIGHTERWING
 
 DESCRIPTION
 The FIGHTERWING is an open source project providing an .stl file for the T-Rex Arms Sidecar.
